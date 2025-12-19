@@ -1,0 +1,15 @@
+\beamer@sectionintoc {1}{The MBS Hedging Challenge}{4}{1}{1}
+\beamer@sectionintoc {2}{Core Risk Metrics}{7}{1}{2}
+\beamer@sectionintoc {3}{Extended Greeks}{13}{1}{3}
+\beamer@sectionintoc {4}{Prepayment Conventions}{19}{2}{4}
+\beamer@sectionintoc {5}{Linear Hedges}{25}{3}{5}
+\beamer@sectionintoc {6}{Non-Linear Hedges}{28}{3}{6}
+\beamer@sectionintoc {7}{Hedge Ratio Theory}{31}{4}{7}
+\beamer@sectionintoc {8}{Rebalancing Framework}{37}{5}{8}
+\beamer@sectionintoc {9}{Mortgage Basis}{42}{6}{9}
+\beamer@sectionintoc {10}{Advanced Spread Analytics}{44}{6}{10}
+\beamer@sectionintoc {11}{Historical Analysis}{48}{7}{11}
+\beamer@sectionintoc {12}{Historical Case Studies}{51}{7}{12}
+\beamer@sectionintoc {13}{Portfolio-Level Considerations}{55}{8}{13}
+\beamer@sectionintoc {14}{Numerical Methods}{58}{8}{14}
+\beamer@sectionintoc {15}{Key Takeaways}{62}{9}{15}
